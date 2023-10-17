@@ -9,7 +9,7 @@ function Header() {
             <h1><span>BEGINS</span>HERE</h1>
             <p className='details'>We take pride in our commitment to using top-quality, skin-friendly products that enhance your natural features while emphasizing your unique style.</p>
             <div className='header-btns'>
-                <a href='#' className='header-btn'><FaPhoneAlt />9121688211</a>
+                <a href='#' className='header-btn'><FaPhoneAlt />912165</a>
             </div>
         </div>
     </div>
